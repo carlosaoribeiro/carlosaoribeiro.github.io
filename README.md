@@ -47,6 +47,12 @@ Currently, I apply my strategic product mindset to build functional, scalable An
 
 ---
 
+## 📈 Profile Visitor Counter
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=carlosaoribeiro&style=flat-square&color=blue)
+
+---
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Ribeiro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-ribeiro-android-developer)
@@ -55,4 +61,3 @@ Currently, I apply my strategic product mindset to build functional, scalable An
 ---
 
 *Thanks for visiting my profile! Feel free to explore my projects or reach out for collaborations, mentoring, or tech talks.*
-
