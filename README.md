@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Ribeiro
 
-## 📱 Android Developer | Java | Kotlin | MVVM | Firebase
+## 📱 Android Developer | Java | Kotlin | |Flutter | MVVM | Firebase
 
 I'm an Android developer driven by purpose and creativity. After more than 10 years leading digital products as a Product Manager — delivering high-impact solutions across various industries — I transitioned to mobile development, my true passion.
 
